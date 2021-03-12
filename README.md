@@ -1,1 +1,1 @@
-# Spatial_CNN-LSTM
+# Spatial sequence CNN-LSTM
